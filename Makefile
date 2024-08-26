@@ -1,3 +1,3 @@
 ##Makefile
 say-hello:
-	console.log('Hello world');
+	echo 'Hello world'
